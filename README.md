@@ -23,9 +23,3 @@ La idea no es simplemente crear una página web.
 
 La meta es construir un **ecosistema tecnológico completo alrededor de la ferretería**.
 
----
-
-## 🎯 Mi objetivo
-
-> **Convertir RAMIFER en una ferretería referente en ventas digitales, atención automatizada y tecnología aplicada al comercio.**
-
